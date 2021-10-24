@@ -1,0 +1,9 @@
+{
+  "name": "mobilife",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "psclite": "ˆ1.0.0"
+  }
+}
